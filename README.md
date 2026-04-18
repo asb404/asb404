@@ -3,7 +3,6 @@
 🚀 AI Engineer | LLM Systems | Distributed Backend
 
 I build **production-grade AI systems** — scalable, reliable, and optimized for real-world use.
-
 ---
 
 ## 🧠 Focus
@@ -11,22 +10,10 @@ I build **production-grade AI systems** — scalable, reliable, and optimized fo
 - Distributed backend systems & microservices  
 - Low-latency, high-throughput AI pipelines  
 
----
-
-## ⚙️ Stack
-Python | Java | TypeScript  
-FastAPI | Spring Boot  
-AWS | Kubernetes | Docker  
-LLMs | Vector Search | LangChain  
-
----
-
 ## 💼 Experience
-- **Amazon (SDE Intern):** AI automation → ↓60% manual effort  
-- **Indiana University (Research):** Agentic RAG → 99%+ reliability  
-- **Motorola:** AI systems for 100K+ users  
-
----
+- **Amazon :** AI automation → ↓60% manual effort  
+- **CNS :** Agentic RAG → 99%+ reliability  
+- **Motorola:** AI systems for 100K+ users
 
 ## 🚀 Projects
 - Autonomous AI Agent (multi-agent reasoning)  
