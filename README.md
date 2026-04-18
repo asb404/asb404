@@ -1,21 +1,21 @@
-# 👋 Hi, I'm Antara Bhavsar
+# 👋 Hi, I'm Antara
 
-🚀 AI Engineer | LLM Systems | Distributed Backend
-
-I build **production-grade AI systems** — scalable, reliable, and optimized for real-world use.
----
-
-## 🧠 Focus
-- Agentic AI systems (RAG, tool-calling, workflows)  
-- Distributed backend systems & microservices  
-- Low-latency, high-throughput AI pipelines  
+🚀 Software Engineer (MS CS @ Indiana University, May 2026)  
+⚡ Building production AI systems (LLMs, RAG, multi-agent systems)
 
 ## 💼 Experience
-- **Amazon :** AI automation → ↓60% manual effort  
-- **CNS :** Agentic RAG → 99%+ reliability  
-- **Motorola:** AI systems for 100K+ users
+- **Amazon** — Reduced manual effort by 60% and MTTR by 40% (AI systems on AWS)
+- **CNS (Research)** — Built agentic RAG pipelines with 99%+ reliability
+- **Motorola** — Delivered AI systems serving 100K+ users
 
-## 🚀 Projects
-- Autonomous AI Agent (multi-agent reasoning)  
-- AI Procurement Optimization (~20% savings)  
-- SentiCloud (5K+ msgs/sec, 99.9% uptime)  
+## 🛠 Tech
+**Languages:** Java, Python, JavaScript  
+**Systems:** Distributed systems, microservices, system design  
+**AI:** LLMs, RAG, LangChain, vector search  
+**Cloud:** AWS, Docker, Kubernetes  
+
+## 🔗 Links
+- 🌐 Portfolio: https://portfolio-psi-blond-17.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/antara-bhavsar-74b7a4187/
+
+---
