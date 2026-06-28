@@ -3,8 +3,6 @@
 🚀 **Founding AI Engineer @ ForbocAI | Software Engineer | MS CS @ Indiana University (May 2026)**  
 ⚡ Building production LLM systems, real-time AI experiences, and scalable distributed systems.
 
----
-
 ## 💫 About Me
 
 I'm a software engineer passionate about building intelligent, scalable, and production-ready systems. My experience spans AI infrastructure, distributed systems, backend engineering, and mobile development.
@@ -12,8 +10,6 @@ I'm a software engineer passionate about building intelligent, scalable, and pro
 Currently, I'm a **Founding AI Engineer at ForbocAI**, where I architect real-time AI-powered NPC platforms, low-latency inference systems, and scalable backend infrastructure for interactive gameplay experiences.
 
 Previously, I've worked at **Amazon**, **Motorola Mobility**, and **Indiana University**, building cloud-native systems, Android applications, and AI-driven platforms.
-
----
 
 ## 💼 Experience
 
@@ -23,13 +19,11 @@ Previously, I've worked at **Amazon**, **Motorola Mobility**, and **Indiana Univ
 - ☁️ **Amazon**
   - Built cloud-native monitoring and event-processing systems on AWS, reducing manual effort and improving operational efficiency.
 
-- 🔬 **Indiana University (CNS Research)**
+- 🔬 **CNS - Indiana University**
   - Developed high-performance data processing pipelines and AI-driven systems for large-scale scientific workflows.
 
 - 📱 **Motorola Mobility**
   - Delivered AI-driven Android features serving **100K+ users**, focusing on performance optimization and user experience.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -64,28 +58,6 @@ Previously, I've worked at **Amazon**, **Motorola Mobility**, and **Indiana Univ
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### Mobile Development
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge)
-![AOSP](https://img.shields.io/badge/AOSP-3DDC84?style=for-the-badge)
-
----
-
-## 📌 Featured Projects
-
-### 🤖 Autonomous Problem-Solving Agent
-
-Built a hybrid multi-agent LLM system capable of iterative reasoning, autonomous code generation, and RL-based refinement.
-
-### 🎮 AI-Powered NPC Platform
-
-Building production-grade real-time AI NPC systems with low-latency inference, memory, and orchestration capabilities.
-
-### ☁️ SentiCloud
-
-Built a distributed cloud-native platform on Kubernetes capable of processing **5K+ messages/sec** with **99.9% uptime**.
 
 ## 🌐 Connect With Me
 
