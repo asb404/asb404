@@ -9,7 +9,7 @@ I'm a software engineer passionate about building intelligent, scalable, and pro
 
 Currently, I'm a **Founding AI Engineer at ForbocAI**, where I architect real-time AI-powered NPC platforms, low-latency inference systems, and scalable backend infrastructure for interactive gameplay experiences.
 
-Previously, I've worked at **Amazon**, **Motorola Mobility**, and **Indiana University**, building cloud-native systems, Android applications, and AI-driven platforms.
+Previously, I've worked at **Amazon**, **Motorola Mobility**, and **CNS**, building cloud-native systems, Android applications, and AI-driven platforms.
 
 ## 💼 Experience
 
